@@ -1,5 +1,5 @@
 {
-  "name": "obj-traverse",
+  "name": "obj-traverse-lite",
   "version": "1.0.0",
   "description": "Small and lightweight library that enables you to traverse deep nested objects and edit them",
   "main": "lib/obj-traverse.js",
@@ -29,7 +29,7 @@
     "traverse",
     "deep nested"
   ],
-  "author": "Dominik Broj",
+  "author": "Ridwan Taiwo",
   "license": "(MIT)",
   "dependencies": {
     "lodash.isequal": "^4.5.0"
