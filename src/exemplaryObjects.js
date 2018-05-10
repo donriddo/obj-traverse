@@ -17,21 +17,7 @@ const objTree = {
     {
       name2: 'foo2',
       city2: 'city2',
-      children: [
-        {
-          name5: 'name5',
-          city5: 'city5'
-        },
-        {
-          name6: 'name6',
-          city6: 'city6',
-          children: [
-            {
-              name8: 'name8'
-            }
-          ]
-        }
-      ]
+      children: undefined
     },
     {
       name3: 'name3',
